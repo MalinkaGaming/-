@@ -55,7 +55,6 @@ public class Slytherin extends Hogwarts {
     public int getThirstForPower() {
         return thirstForPower;
     }
-
     public void setThirstForPower(int thirstOfPower) {
         this.thirstForPower = thirstOfPower;
     }

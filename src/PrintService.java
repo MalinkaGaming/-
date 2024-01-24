@@ -58,5 +58,6 @@ public class PrintService {
             System.out.println(student2.getName() + " в совокупности обладает большей магией и расстоянием трансгрессии, чем " + student1.getName());
         }
     }
+
 }
 

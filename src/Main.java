@@ -18,3 +18,4 @@ public class Main {
         Slytherin gregory = new Slytherin("Грегори Гойл", 26, 41, 33, 33, 31, 2, 4);
     }
 }
+

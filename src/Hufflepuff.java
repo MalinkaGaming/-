@@ -14,7 +14,6 @@ public class Hufflepuff extends Hogwarts {
         this.hardworking = hardworking;
         this.honest = honest;
     }
-
     public int getHardworking() {
         return hardworking;
     }
